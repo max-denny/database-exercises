@@ -1,0 +1,5 @@
+USE books_do;
+
+DROP TABLE IF EXISTS
+
+CREATE TABLE IF EXISTS books;
